@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jared\\Desktop\\assign78\\assign78\\assign78.csproj",
+      "projectUniqueName": "C:\\Users\\jared\\Desktop\\CSharpPrac\\cassignment\\assign78\\assign78\\assign78.csproj",
       "projectName": "assign78",
-      "projectPath": "C:\\Users\\jared\\Desktop\\assign78\\assign78\\assign78.csproj",
+      "projectPath": "C:\\Users\\jared\\Desktop\\CSharpPrac\\cassignment\\assign78\\assign78\\assign78.csproj",
       "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jared\\Desktop\\assign78\\assign78\\obj\\",
+      "outputPath": "C:\\Users\\jared\\Desktop\\CSharpPrac\\cassignment\\assign78\\assign78\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jared\\AppData\\Roaming\\NuGet\\NuGet.Config",
